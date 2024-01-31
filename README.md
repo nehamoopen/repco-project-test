@@ -2,7 +2,8 @@
 
 This project template is a demonstration for the RepCo workshop.
 
-HELLOOOOOOOOOO
+HELLO THERE
+THIS IS MY PROJECT
 
 ## Usage
 
