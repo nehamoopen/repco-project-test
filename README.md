@@ -44,3 +44,30 @@ Create a citation file for your repository using [cffinit](https://citation-file
 ## License
 
 This project is licensed under the terms of the [MIT License](/LICENSE).
+
+```
+R version 4.2.3 (2023-03-15 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=Dutch_Netherlands.utf8  LC_CTYPE=Dutch_Netherlands.utf8   
+[3] LC_MONETARY=Dutch_Netherlands.utf8 LC_NUMERIC=C                      
+[5] LC_TIME=Dutch_Netherlands.utf8    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] TempPackage_1.0 docstring_1.0.0
+
+loaded via a namespace (and not attached):
+ [1] roxygen2_7.2.3  withr_2.5.0     rprojroot_2.0.3 R6_2.5.1       
+ [5] lifecycle_1.0.3 magrittr_2.0.3  rlang_1.1.0     stringi_1.7.12 
+ [9] cli_3.6.1       rstudioapi_0.14 xml2_1.3.3      vctrs_0.6.1    
+[13] desc_1.4.2      tools_4.2.3     stringr_1.5.0   glue_1.6.2     
+[17] purrr_1.0.1     pkgload_1.3.2   xfun_0.40       compiler_4.2.3 
+[21] knitr_1.42     
+```
